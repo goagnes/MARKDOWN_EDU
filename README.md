@@ -1,5 +1,11 @@
+### 9. 이미지
+
+
+### 8. 강조
+
+
 ### 7. 하이퍼링크
-[PCWK Cafe](https://cafe.daum.net/pcwk,"설명문구")  
+[PCWK Cafe](https://cafe.daum.net/pcwk/,"설명문구")  
 
 
 ### 6. 가로선
