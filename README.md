@@ -1,11 +1,12 @@
 ### 9. 이미지
-
+![PCWK Cafe](https://github.com/goagnes/MARKDOWN_EDU/blob/main/duke.png)
 
 ### 8. 강조
-
+Spring을 만끽하세요.  
+**Spring**을 만끽하세요.
 
 ### 7. 하이퍼링크
-[PCWK Cafe](https://cafe.daum.net/pcwk/,"설명문구")  
+[PCWK Cafe](https://cafe.daum.net/pcwk/)  
 
 
 ### 6. 가로선
