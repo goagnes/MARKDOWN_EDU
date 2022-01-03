@@ -1,3 +1,12 @@
+### 10. 표
+|번호|아이디|이름|레벨|이메일|등록일|
+|:-------:|:---------|:-------|-------:|:------------------:|:-------|
+|1       |james     |이상무   |1        |jigo2214@naver.com|16:08|
+|2       |**james** |이상무   |1        |jigo2214@naver.com|16:08|
+|3       |james     |이상무   |1        |jigo2214@naver.com|16:08|
+|4       |james     |이상무   |1        |jigo2214@naver.com|16:08|
+|5       |james     |이상무   |1        |jigo2214@naver.com|16:08|
+
 ### 9. 이미지
 ![PCWK Cafe](https://github.com/goagnes/MARKDOWN_EDU/blob/main/duke.png "설명문구")
 
